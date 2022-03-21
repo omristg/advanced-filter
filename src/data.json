@@ -1,0 +1,502 @@
+[
+    {
+        "id": 1,
+        "jobTitle": "Database Administrator I",
+        "offersNum": 40
+    },
+    {
+        "id": 2,
+        "jobTitle": "Research Associate",
+        "offersNum": 52
+    },
+    {
+        "id": 3,
+        "jobTitle": "Accounting Assistant II",
+        "offersNum": 319
+    },
+    {
+        "id": 4,
+        "jobTitle": "Statistician IV",
+        "offersNum": 39
+    },
+    {
+        "id": 5,
+        "jobTitle": "Quality Engineer",
+        "offersNum": 66
+    },
+    {
+        "id": 6,
+        "jobTitle": "VP Sales",
+        "offersNum": 101
+    },
+    {
+        "id": 7,
+        "jobTitle": "Registered Nurse",
+        "offersNum": 332
+    },
+    {
+        "id": 8,
+        "jobTitle": "Geological Engineer",
+        "offersNum": 352
+    },
+    {
+        "id": 9,
+        "jobTitle": "VP Quality Control",
+        "offersNum": 295
+    },
+    {
+        "id": 10,
+        "jobTitle": "Web Developer II",
+        "offersNum": 28
+    },
+    {
+        "id": 11,
+        "jobTitle": "Actuary",
+        "offersNum": 251
+    },
+    {
+        "id": 12,
+        "jobTitle": "Computer Systems Analyst IV",
+        "offersNum": 76
+    },
+    {
+        "id": 13,
+        "jobTitle": "Pharmacist",
+        "offersNum": 164
+    },
+    {
+        "id": 14,
+        "jobTitle": "Marketing Assistant",
+        "offersNum": 28
+    },
+    {
+        "id": 15,
+        "jobTitle": "Pharmacist",
+        "offersNum": 133
+    },
+    {
+        "id": 16,
+        "jobTitle": "Marketing Assistant",
+        "offersNum": 170
+    },
+    {
+        "id": 17,
+        "jobTitle": "Compensation Analyst",
+        "offersNum": 207
+    },
+    {
+        "id": 18,
+        "jobTitle": "Food Chemist",
+        "offersNum": 241
+    },
+    {
+        "id": 19,
+        "jobTitle": "Quality Engineer",
+        "offersNum": 226
+    },
+    {
+        "id": 20,
+        "jobTitle": "Clinical Specialist",
+        "offersNum": 138
+    },
+    {
+        "id": 21,
+        "jobTitle": "Media Manager III",
+        "offersNum": 203
+    },
+    {
+        "id": 22,
+        "jobTitle": "Senior Developer",
+        "offersNum": 18
+    },
+    {
+        "id": 23,
+        "jobTitle": "Health Coach IV",
+        "offersNum": 106
+    },
+    {
+        "id": 24,
+        "jobTitle": "Staff Accountant IV",
+        "offersNum": 118
+    },
+    {
+        "id": 25,
+        "jobTitle": "Health Coach II",
+        "offersNum": 168
+    },
+    {
+        "id": 26,
+        "jobTitle": "Geologist I",
+        "offersNum": 240
+    },
+    {
+        "id": 27,
+        "jobTitle": "Engineer III",
+        "offersNum": 112
+    },
+    {
+        "id": 28,
+        "jobTitle": "Legal Assistant",
+        "offersNum": 26
+    },
+    {
+        "id": 29,
+        "jobTitle": "Human Resources Assistant IV",
+        "offersNum": 308
+    },
+    {
+        "id": 30,
+        "jobTitle": "Office Assistant I",
+        "offersNum": 108
+    },
+    {
+        "id": 31,
+        "jobTitle": "Cost Accountant",
+        "offersNum": 70
+    },
+    {
+        "id": 32,
+        "jobTitle": "Engineer IV",
+        "offersNum": 342
+    },
+    {
+        "id": 33,
+        "jobTitle": "Senior Editor",
+        "offersNum": 319
+    },
+    {
+        "id": 34,
+        "jobTitle": "Data Coordiator",
+        "offersNum": 345
+    },
+    {
+        "id": 35,
+        "jobTitle": "Automation Specialist II",
+        "offersNum": 237
+    },
+    {
+        "id": 36,
+        "jobTitle": "Editor",
+        "offersNum": 115
+    },
+    {
+        "id": 37,
+        "jobTitle": "Web Designer II",
+        "offersNum": 28
+    },
+    {
+        "id": 38,
+        "jobTitle": "Recruiting Manager",
+        "offersNum": 397
+    },
+    {
+        "id": 39,
+        "jobTitle": "Geologist I",
+        "offersNum": 392
+    },
+    {
+        "id": 40,
+        "jobTitle": "VP Quality Control",
+        "offersNum": 120
+    },
+    {
+        "id": 41,
+        "jobTitle": "Financial Advisor",
+        "offersNum": 305
+    },
+    {
+        "id": 42,
+        "jobTitle": "Accounting Assistant IV",
+        "offersNum": 323
+    },
+    {
+        "id": 43,
+        "jobTitle": "Legal Assistant",
+        "offersNum": 379
+    },
+    {
+        "id": 44,
+        "jobTitle": "Associate Professor",
+        "offersNum": 381
+    },
+    {
+        "id": 45,
+        "jobTitle": "Information Systems Manager",
+        "offersNum": 257
+    },
+    {
+        "id": 46,
+        "jobTitle": "Civil Engineer",
+        "offersNum": 307
+    },
+    {
+        "id": 47,
+        "jobTitle": "Web Designer IV",
+        "offersNum": 126
+    },
+    {
+        "id": 48,
+        "jobTitle": "Internal Auditor",
+        "offersNum": 171
+    },
+    {
+        "id": 49,
+        "jobTitle": "Senior Editor",
+        "offersNum": 339
+    },
+    {
+        "id": 50,
+        "jobTitle": "Senior Editor",
+        "offersNum": 224
+    },
+    {
+        "id": 51,
+        "jobTitle": "Help Desk Technician",
+        "offersNum": 29
+    },
+    {
+        "id": 52,
+        "jobTitle": "Internal Auditor",
+        "offersNum": 62
+    },
+    {
+        "id": 53,
+        "jobTitle": "Health Coach II",
+        "offersNum": 125
+    },
+    {
+        "id": 54,
+        "jobTitle": "Mechanical Systems Engineer",
+        "offersNum": 40
+    },
+    {
+        "id": 55,
+        "jobTitle": "Quality Engineer",
+        "offersNum": 251
+    },
+    {
+        "id": 56,
+        "jobTitle": "Marketing Manager",
+        "offersNum": 292
+    },
+    {
+        "id": 57,
+        "jobTitle": "Structural Engineer",
+        "offersNum": 43
+    },
+    {
+        "id": 58,
+        "jobTitle": "Financial Advisor",
+        "offersNum": 361
+    },
+    {
+        "id": 59,
+        "jobTitle": "Software Consultant",
+        "offersNum": 289
+    },
+    {
+        "id": 60,
+        "jobTitle": "Occupational Therapist",
+        "offersNum": 57
+    },
+    {
+        "id": 61,
+        "jobTitle": "Community Outreach Specialist",
+        "offersNum": 112
+    },
+    {
+        "id": 62,
+        "jobTitle": "Developer III",
+        "offersNum": 187
+    },
+    {
+        "id": 63,
+        "jobTitle": "Nurse Practicioner",
+        "offersNum": 190
+    },
+    {
+        "id": 64,
+        "jobTitle": "Computer Systems Analyst II",
+        "offersNum": 82
+    },
+    {
+        "id": 65,
+        "jobTitle": "Product Engineer",
+        "offersNum": 347
+    },
+    {
+        "id": 66,
+        "jobTitle": "Cost Accountant",
+        "offersNum": 354
+    },
+    {
+        "id": 67,
+        "jobTitle": "Marketing Assistant",
+        "offersNum": 92
+    },
+    {
+        "id": 68,
+        "jobTitle": "Geological Engineer",
+        "offersNum": 55
+    },
+    {
+        "id": 69,
+        "jobTitle": "Programmer Analyst III",
+        "offersNum": 238
+    },
+    {
+        "id": 70,
+        "jobTitle": "Developer IV",
+        "offersNum": 53
+    },
+    {
+        "id": 71,
+        "jobTitle": "Information Systems Manager",
+        "offersNum": 98
+    },
+    {
+        "id": 72,
+        "jobTitle": "Dental Hygienist",
+        "offersNum": 276
+    },
+    {
+        "id": 73,
+        "jobTitle": "Accounting Assistant III",
+        "offersNum": 142
+    },
+    {
+        "id": 74,
+        "jobTitle": "Programmer Analyst II",
+        "offersNum": 24
+    },
+    {
+        "id": 75,
+        "jobTitle": "Senior Financial Analyst",
+        "offersNum": 317
+    },
+    {
+        "id": 76,
+        "jobTitle": "Senior Sales Associate",
+        "offersNum": 24
+    },
+    {
+        "id": 77,
+        "jobTitle": "Chief Design Engineer",
+        "offersNum": 84
+    },
+    {
+        "id": 78,
+        "jobTitle": "Executive Secretary",
+        "offersNum": 138
+    },
+    {
+        "id": 79,
+        "jobTitle": "Director of Sales",
+        "offersNum": 11
+    },
+    {
+        "id": 80,
+        "jobTitle": "Assistant Professor",
+        "offersNum": 367
+    },
+    {
+        "id": 81,
+        "jobTitle": "Compensation Analyst",
+        "offersNum": 73
+    },
+    {
+        "id": 82,
+        "jobTitle": "Business Systems Development Analyst",
+        "offersNum": 119
+    },
+    {
+        "id": 83,
+        "jobTitle": "VP Marketing",
+        "offersNum": 52
+    },
+    {
+        "id": 84,
+        "jobTitle": "Editor",
+        "offersNum": 395
+    },
+    {
+        "id": 85,
+        "jobTitle": "Systems Administrator III",
+        "offersNum": 281
+    },
+    {
+        "id": 86,
+        "jobTitle": "Associate Professor",
+        "offersNum": 199
+    },
+    {
+        "id": 87,
+        "jobTitle": "Web Designer III",
+        "offersNum": 374
+    },
+    {
+        "id": 88,
+        "jobTitle": "Registered Nurse",
+        "offersNum": 397
+    },
+    {
+        "id": 89,
+        "jobTitle": "Clinical Specialist",
+        "offersNum": 361
+    },
+    {
+        "id": 90,
+        "jobTitle": "Legal Assistant",
+        "offersNum": 213
+    },
+    {
+        "id": 91,
+        "jobTitle": "Project Manager",
+        "offersNum": 292
+    },
+    {
+        "id": 92,
+        "jobTitle": "Help Desk Technician",
+        "offersNum": 328
+    },
+    {
+        "id": 93,
+        "jobTitle": "Help Desk Technician",
+        "offersNum": 239
+    },
+    {
+        "id": 94,
+        "jobTitle": "Engineer I",
+        "offersNum": 285
+    },
+    {
+        "id": 95,
+        "jobTitle": "Financial Analyst",
+        "offersNum": 93
+    },
+    {
+        "id": 96,
+        "jobTitle": "Tax Accountant",
+        "offersNum": 249
+    },
+    {
+        "id": 97,
+        "jobTitle": "Librarian",
+        "offersNum": 398
+    },
+    {
+        "id": 98,
+        "jobTitle": "Graphic Designer",
+        "offersNum": 150
+    },
+    {
+        "id": 99,
+        "jobTitle": "Internal Auditor",
+        "offersNum": 104
+    },
+    {
+        "id": 100,
+        "jobTitle": "GIS Technical Architect",
+        "offersNum": 11
+    }
+]
