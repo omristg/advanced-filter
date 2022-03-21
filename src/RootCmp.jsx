@@ -3,7 +3,7 @@ import data from './data.json'
 
 export const RootCmp = () => {
 	return (
-		<div>
+		<div className="root-cmp">
 			<SearchBar placeholder="Search jobs..." data={data} />
 		</div>
 	)

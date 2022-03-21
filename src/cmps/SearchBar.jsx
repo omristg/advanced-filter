@@ -19,15 +19,28 @@ export const SearchBar = ({ placeholder, data }) => {
             <form onSubmit={onSubmit}>
                 <input type="text" placeholder={placeholder} value={searchVal}
                     onChange={({ target }) => setSearchVal(target.value)} />
-                <HiSearch />
+                <HiSearch className="input-icon" />
             </form>
-            <div className="seach-options">
-                {options.slice(0, 10).map((item, idx) => (
-                    <div key={idx} className="data-item">
-                        {item.jobTitle}
-                    </div>
-                ))}
-            </div>
+            {searchVal.length > 0 && (
+                <div className="search-options">
+                    {options.length > 0 ? (
+                        options.slice(0, 10).map((item, idx) => (
+                            <div key={idx} className="data-item">
+                                {item.jobTitle}
+                            </div>
+                        ))
+                    ) : (
+                        searchVal.length > 0 && options.length === 0 && (
+                            <div className="data-item">
+                                No match
+                            </div>
+                        )
+                    )}
+
+                </div>
+            )}
+
+
         </div>
     )
 }

@@ -32,3 +32,10 @@ textarea:focus-visible,
 input:focus-visible {
     outline: none;
 }
+
+.root-cmp{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
